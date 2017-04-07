@@ -1,2 +1,5 @@
 # python_bmi
-simple bmi calculator
+
+Simple BMI calculator. First program made in Python.
+
+<br><br>written in Python 3
